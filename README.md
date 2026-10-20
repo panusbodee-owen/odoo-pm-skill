@@ -1,5 +1,7 @@
 # odoo-pm — Claude Skill for Odoo Project Management (all versions)
 
+![Demo: real script runs and the generated output](docs/demo.gif)
+
 Covers the project-management documents of an Odoo implementation, with numbers produced by a script instead of mental arithmetic.
 
 | Task | How |
